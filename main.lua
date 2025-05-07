@@ -53,7 +53,7 @@ UICorner.CornerRadius = UDim.new(0, 25)
 UICorner.Parent = Frame
 
 TextLabel.Parent = Frame
-TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel.BackgroundTransparency = 1.000
 TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.BorderSizePixel = 0
@@ -67,7 +67,7 @@ TextLabel.TextSize = 14.000
 TextLabel.TextWrapped = true
 
 TextLabel_2.Parent = TextLabel
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_2.BackgroundTransparency = 1.000
 TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.BorderSizePixel = 0
@@ -83,7 +83,7 @@ TextLabel_2.TextWrapped = true
 
 Arsenal.Name = "Arsenal"
 Arsenal.Parent = Frame
-Arsenal.BackgroundColor3 = Color3.fromRGB(65, 18, 99)
+Arsenal.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Arsenal.BackgroundTransparency = 0.900
 Arsenal.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Arsenal.BorderSizePixel = 0
@@ -99,7 +99,7 @@ UICorner_2.CornerRadius = UDim.new(0, 25)
 UICorner_2.Parent = Arsenal
 
 TextLabel_3.Parent = Arsenal
-TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_3.BorderSizePixel = 0
@@ -113,7 +113,7 @@ TextLabel_3.TextWrapped = true
 
 Loadbtn.Name = "Loadbtn"
 Loadbtn.Parent = Frame
-Loadbtn.BackgroundColor3 = Color3.fromRGB(27, 29, 37)
+Loadbtn.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Loadbtn.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Loadbtn.BorderSizePixel = 0
 Loadbtn.Position = UDim2.new(0.527222872, 0, 0.655968249, 0)
@@ -145,7 +145,7 @@ CloseButton.TextWrapped = true
 
 Planks.Name = "Planks"
 Planks.Parent = Frame
-Planks.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
+Planks.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Planks.BackgroundTransparency = 0.900
 Planks.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Planks.BorderSizePixel = 0
@@ -161,7 +161,7 @@ UICorner_4.CornerRadius = UDim.new(0, 25)
 UICorner_4.Parent = Planks
 
 TextLabel_4.Parent = Planks
-TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_4.BackgroundTransparency = 1.000
 TextLabel_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_4.BorderSizePixel = 0
@@ -175,7 +175,7 @@ TextLabel_4.TextWrapped = true
 
 Rivals.Name = "Rivals"
 Rivals.Parent = Frame
-Rivals.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
+Rivals.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Rivals.BackgroundTransparency = 0.900
 Rivals.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Rivals.BorderSizePixel = 0
@@ -191,7 +191,7 @@ UICorner_5.CornerRadius = UDim.new(0, 25)
 UICorner_5.Parent = Rivals
 
 TextLabel_5.Parent = Rivals
-TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_5.BackgroundTransparency = 1.000
 TextLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_5.BorderSizePixel = 0
@@ -199,12 +199,12 @@ TextLabel_5.Position = UDim2.new(0.142294794, 0, -3.59030338e-07, 0)
 TextLabel_5.Size = UDim2.new(0, 225, 0, 70)
 TextLabel_5.Font = Enum.Font.Nunito
 TextLabel_5.Text = "Rivals"
-TextLabel_5.TextColor3 = Color3.fromRGB(265, 18, 99)
+TextLabel_5.TextColor3 = Color3.fromRGB(65, 18, 99)
 TextLabel_5.TextSize = 48.000
 TextLabel_5.TextWrapped = true
 
 TextLabel_6.Parent = Frame
-TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_6.BackgroundTransparency = 1.000
 TextLabel_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_6.BorderSizePixel = 0
@@ -218,7 +218,7 @@ TextLabel_6.TextSize = 14.000
 TextLabel_6.TextWrapped = true
 
 TextLabel_7.Parent = TextLabel_6
-TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_7.BackgroundTransparency = 1.000
 TextLabel_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_7.BorderSizePixel = 0
@@ -234,7 +234,7 @@ TextLabel_7.TextWrapped = true
 
 CounterBlox.Name = "CounterBlox"
 CounterBlox.Parent = Frame
-CounterBlox.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
+CounterBlox.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 CounterBlox.BackgroundTransparency = 0.900
 CounterBlox.BorderColor3 = Color3.fromRGB(0, 0, 0)
 CounterBlox.BorderSizePixel = 0
@@ -247,7 +247,7 @@ CounterBloxStroke.Thickness = 2
 CounterBloxStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 
 TextLabel_8.Parent = CounterBlox
-TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_8.BackgroundTransparency = 1.000
 TextLabel_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_8.BorderSizePixel = 0
@@ -264,7 +264,7 @@ UICorner_6.Parent = CounterBlox
 
 Universal.Name = "Universal"
 Universal.Parent = Frame
-Universal.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
+Universal.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Universal.BackgroundTransparency = 0.900
 Universal.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Universal.BorderSizePixel = 0
@@ -277,7 +277,7 @@ UniversalStroke.Thickness = 2
 UniversalStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 
 TextLabel_9.Parent = Universal
-TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_9.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_9.BackgroundTransparency = 1.000
 TextLabel_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_9.BorderSizePixel = 0
@@ -293,7 +293,7 @@ UICorner_7.CornerRadius = UDim.new(0, 25)
 UICorner_7.Parent = Universal
 
 TextLabel_10.Parent = Frame
-TextLabel_10.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
+TextLabel_10.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 TextLabel_10.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_10.BorderSizePixel = 0
 TextLabel_10.Position = UDim2.new(0.627807558, 0, 0.87694031, 0)
@@ -305,7 +305,7 @@ TextLabel_10.TextSize = 28.000
 
 SelectedScript.Name = "SelectedScript"
 SelectedScript.Parent = Frame
-SelectedScript.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
+SelectedScript.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 SelectedScript.BorderColor3 = Color3.fromRGB(0, 0, 0)
 SelectedScript.BorderSizePixel = 0
 SelectedScript.Position = UDim2.new(0.627807558, 0, 0.446940303, 0)
