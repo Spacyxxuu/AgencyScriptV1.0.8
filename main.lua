@@ -124,26 +124,7 @@ Universal.BorderSizePixel = 0
 Universal.Position = UDim2.new(0.0312633105, 0, 0.821787298, 0)
 Universal.Size = UDim2.new(0, 300, 0, 70)
 
-UniversalStroke.Parent = Universal
-UniversalStroke.Color = Color3.fromRGB(26, 29, 37)
-UniversalStroke.Thickness = 2
-UniversalStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 
-TextLabel_9.Parent = Universal
-TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_9.BackgroundTransparency = 1.000
-TextLabel_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel_9.BorderSizePixel = 0
-TextLabel_9.Position = UDim2.new(0.142294794, 0, -3.59030338e-07, 0)
-TextLabel_9.Size = UDim2.new(0, 225, 0, 70)
-TextLabel_9.Font = Enum.Font.Nunito
-TextLabel_9.Text = "Agency"
-TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_9.TextSize = 48.000
-TextLabel_9.TextWrapped = true
-
-UICorner_7.CornerRadius = UDim.new(0, 25)
-UICorner_7.Parent = Universal
 
 TextLabel_10.Parent = Frame
 TextLabel_10.BackgroundColor3 = Color3.fromRGB(17, 18, 20)
@@ -152,7 +133,7 @@ TextLabel_10.BorderSizePixel = 0
 TextLabel_10.Position = UDim2.new(0.627807558, 0, 0.87694031, 0)
 TextLabel_10.Size = UDim2.new(0, 180, 0, 40)
 TextLabel_10.Font = Enum.Font.Nunito
-TextLabel_10.Text = "Thank you for using Zypherion <3"
+TextLabel_10.Text = "Thank you for using Spacyxx <3"
 TextLabel_10.TextColor3 = Color3.fromRGB(40, 58, 85)
 TextLabel_10.TextSize = 28.000
 
